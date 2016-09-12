@@ -436,8 +436,3 @@ javascript: (function() {
     lookupSelectedWord();
   }
 })();
-
-
-// TODO 
-// - dont highlight if word is embedded in another
-// - try using a better dictionary API
